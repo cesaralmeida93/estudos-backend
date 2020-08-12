@@ -1,0 +1,5 @@
+npm init -y
+npm install express
+node index.js
+npm install --save-dev nodemon
+npm start
