@@ -1,2 +1,2 @@
-# Estudos-backend
-Mono repo para armazenar meus estudos sobre backend
+# Estudos-Node
+Mono repo para armazenar meus estudos sobre backend com Node.js
